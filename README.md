@@ -6,14 +6,16 @@
 4. T-SNE representation
 
 ____
-- Extract features : [Extraction_features,Part 2]
-- Analyse audios : [Final_analysis]
+- Demo: [notebook summary](https://nbviewer.jupyter.org/github/camila-ud/audiosummary-pytorch/blob/master/notebook%20summary%20soundnet.ipynb)
+- Extract features : [Extraction_features,Part 2](https://nbviewer.jupyter.org/github/camila-ud/audiosummary-pytorch/blob/master/Extraction_features.ipynb)
+- Analyse audios and clustering: [Final_analysis](https://github.com/camila-ud/audiosummary-pytorch/blob/master/final_analysis_audio.ipynb)
 - Change sample rating [Preprocessing]
-- Demo: [notebook summary]
+
 
 
 ----
 FMRI Analyse
+[Notebook](https://nbviewer.jupyter.org/github/camila-ud/audiosummary-pytorch/blob/master/fmri_video/code/Encoding_model_pytorch.ipynb)
 
-Project [**Brainsongs**](http://brain.bzh). IMT-A
+Project [**Brainsongs**](http://brain.bzh). IMT-Atlantique
  
