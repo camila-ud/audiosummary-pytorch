@@ -4,6 +4,6 @@ This work was done by Charlene Petit, Thomas Dambricourt and Nicolas Farrugia, j
 We modified this project using soundnetpytorch in 2019. IMT-A
 
 
-The notebook  is [Encodingmodel](./master/code/Encoding_model_pytorch.ipynb) 
+The notebook  is [Encodingmodel](https://nbviewer.jupyter.org/github/camila-ud/audiosummary-pytorch/blob/master/fmri_video/code/Encoding_model_pytorch.ipynb) 
 
 
