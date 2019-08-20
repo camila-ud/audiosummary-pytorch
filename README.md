@@ -8,7 +8,7 @@
 ____
 - Demo: [notebook summary](https://nbviewer.jupyter.org/github/camila-ud/audiosummary-pytorch/blob/master/notebook%20summary%20soundnet.ipynb)
 - Extract features : [Extraction_features,Part 2](https://nbviewer.jupyter.org/github/camila-ud/audiosummary-pytorch/blob/master/Extraction_features.ipynb)
-- Analyse audios and clustering: [Final_analysis](https://github.com/camila-ud/audiosummary-pytorch/blob/master/final_analysis_audio.ipynb)
+- Analyse audios and clustering: [Final_analysis](https://nbviewer.jupyter.org/github/camila-ud/audiosummary-pytorch/blob/master/final_analysis_audio.ipynb)
 - Change sample rating [Preprocessing]
 
 
